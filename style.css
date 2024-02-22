@@ -75,6 +75,7 @@ body{
 }
 .right_leg{
 	margin-left: 80px;
+
 }
 .left_leg:hover{
 
@@ -97,4 +98,9 @@ body{
 	position: relative;
 	top: 100px;
 	left: 150px;
+}
+
+
+.left_arm:hover{
+	transform: rotate(45deg);
 }
